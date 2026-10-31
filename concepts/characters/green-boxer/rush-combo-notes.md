@@ -1,1 +1,0 @@
-This concept sheet is a new 12-frame Rush Combo animation for Green Boxer. The generated atlas uses a transparent 4x3 grid. The runtime strip in public/assets/green-boxer/rush-combo.png contains the same 12 cells in row-major order, each resized to 256x256 to match the game's native fighter frame size.
