@@ -39,6 +39,21 @@ export class CharacterSelectScene extends BaseScene {
     this.opponent = -1;
     this.locked = false;
     this.returningToModes = false;
+
+    // Phaser reuses Scene instances when they are started again. Clear every
+    // reference to display objects from the previous run before create() builds
+    // the roster; those objects were destroyed during the previous shutdown.
+    this.flags = [];
+    this.cells = [];
+    this.p1Portrait = undefined;
+    this.p2Portrait = undefined;
+    this.p1Name = undefined;
+    this.p2Name = undefined;
+    this.p1Country = undefined;
+    this.p2Country = undefined;
+    this.hint = undefined;
+    this.cursor = undefined;
+    this.opponentCursor = undefined;
   }
 
   create(): void {
