@@ -1,0 +1,3 @@
+# Moonlit Greenhouse
+
+Use case: original 2D fighting game background. Asset type: panoramic 16:9 pixel-art stage. Scene: a moonlit rooftop greenhouse above a modern city, long glass conservatory walls framing the far left and right, lush silhouettes of bamboo and potted plants at the edges, a distant skyline and full moon, a broad flat rooftop fighting lane along the lower quarter. Composition: side-view fighter arena, clear empty central lane with no people, environment framing the edges, low horizon. Style: polished detailed pixel art, crisp pixel clusters, original arcade game art, deep indigo night, cool moonlight, small magenta and teal city lights. No text, logos, HUD, borders, checkerboard, watermark, or franchise references.

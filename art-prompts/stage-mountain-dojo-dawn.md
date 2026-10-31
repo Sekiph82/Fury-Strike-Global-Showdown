@@ -1,0 +1,3 @@
+# Mountain Dojo Dawn
+
+Use case: original 2D fighting game stage background. Asset type: wide 16:9 panoramic pixel-art arena. Scene: an ancient mountain dojo courtyard at dawn, wooden dojo gate, distant misty blue mountains, stone floor with a clear level ground line along the lower fifth. Composition: wide horizontal arena, unobstructed central fighting lane, props mainly toward both sides, no humans or fighters. Style: polished high-resolution pixel art for an original arcade fighter, sharp pixel clusters, deep navy shadows, warm lanterns, orange sunrise. No text, HUD, borders, checkerboard, watermark, or recognizable franchise elements.

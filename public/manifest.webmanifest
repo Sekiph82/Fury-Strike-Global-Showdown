@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Vibe Fighter",
+  "short_name": "Vibe Fighter",
+  "description": "An original local arcade fighting game.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080817",
+  "theme_color": "#080817",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

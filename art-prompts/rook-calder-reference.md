@@ -1,0 +1,3 @@
+# Rook Calder — Character Reference
+
+Create an original full-body arcade fighter reference for Rook Calder, a broad, powerful Black British heavyweight grappler in his late 30s. He has close-cropped hair, a calm focused expression, a dark teal sleeveless combat jacket over a charcoal shirt, rust-orange hand wraps, slate cargo trousers, and sturdy black boots. Grounded three-quarter side fighting stance facing right; keep limbs clearly separated and the complete silhouette inside the canvas. Polished inked 2D arcade illustration, transparent background, no lettering, logos, props, or watermark.

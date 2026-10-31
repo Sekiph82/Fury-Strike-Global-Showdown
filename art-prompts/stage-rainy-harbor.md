@@ -1,0 +1,3 @@
+# Rainy Harbor
+
+Use case: original 2D arcade fighting game stage background. Asset type: wide 16:9 panoramic pixel-art arena. Scene: a rain-soaked industrial harbor at night, shipping containers and dock cranes framing a distant city, wet concrete reflecting cyan work lights and amber lamps, distant waterline. Composition: side-view fighting-game environment with one uninterrupted level ground lane across the bottom quarter and open readable central arena; keep tall cranes and stacks to the far sides, no people or characters. Style: polished detailed pixel art with crisp pixel clusters, original game background, moody navy and teal palette with amber highlights. No text, logos, HUD, borders, checkerboard, watermark, or franchise references.
