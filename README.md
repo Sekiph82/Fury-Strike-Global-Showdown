@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🥊 Vibe Fighter
+# 🥊 Fury Strike
 
 ### An original 2D arcade fighter
 
-![Vibe Fighter gameplay](preview.gif)
+![Fury Strike gameplay](preview.gif)
 
 <br>
 
