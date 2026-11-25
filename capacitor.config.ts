@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.sekip.vibefighter',
-  appName: 'Vibe Fighter',
+  appName: 'Fury Strike',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
