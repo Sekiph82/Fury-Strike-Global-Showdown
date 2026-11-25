@@ -33,7 +33,7 @@ self.addEventListener('fetch', (event) => {
       } catch {
         const shell = await cache.match('/index.html');
         if (shell) return shell;
-        throw new Error('Vibe Fighter is not available offline until its first online launch.');
+        throw new Error('Fury Strike is not available offline until its first online launch.');
       }
     }
 
